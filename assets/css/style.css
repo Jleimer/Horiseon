@@ -93,6 +93,7 @@ p {
     margin-left: 20px;
 }
 
+/*made bottom padding of background 63px to be level with other background  */
 .benefits {
     margin-right: 20px;
     padding: 20px 20px 63px 20px;
